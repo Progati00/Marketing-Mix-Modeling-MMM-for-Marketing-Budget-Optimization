@@ -250,5 +250,4 @@ A lightweight API built with Flask to serve the trained model.
 * Deploy using Docker, Heroku, or Render
 * Connect to a dashboard (e.g., Streamlit) for user-friendly interaction
 
-ou'd like a downloadable file or want to add badges, images, or deployment instructions.
 ```
